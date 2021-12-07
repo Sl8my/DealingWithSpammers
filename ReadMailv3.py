@@ -4,10 +4,10 @@ import email
 import re
 
 #credentials
-username ="serravalledomenico@hotmail.com"
+username ="***"
 
 #generated app password
-app_password= "qauxzqzxfcpciytr"
+app_password= "***"
 
 # https://www.systoolsgroup.com/imap/
 gmail_host= 'imap-mail.outlook.com'
